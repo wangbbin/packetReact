@@ -1,0 +1,23 @@
+{
+  "name": "packetreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangbbin/packetReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangbbin/packetReact/issues"
+  },
+  "homepage": "https://github.com/wangbbin/packetReact#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
