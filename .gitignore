@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+**/*bundle.js
 
 # Windows shortcuts
 *.lnk
